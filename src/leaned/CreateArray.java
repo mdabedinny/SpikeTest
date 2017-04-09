@@ -9,6 +9,13 @@ public class CreateArray {
         int [] numArray = {4, 5, 6, 8,10};
         String [] name = {"Topu", "Khan", "Abedin", "Raihan", "Sayan"};
         System.out.println("Hello Mithu!");
+        System.out.println("Hello Mithu!");
+        System.out.println("Hello Mithu!");
+        System.out.println("Hello Mithu!");
+        System.out.println("Hello Mithu!");
+        System.out.println("Hello Mithu!");
+
+
     }
 
 
